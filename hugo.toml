@@ -1,0 +1,4 @@
+baseURL = 'https://mysite.com/'
+languageCode = 'en-us'
+title = 'This is my site, thank you'
+theme= "ananke"
