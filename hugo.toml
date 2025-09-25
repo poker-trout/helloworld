@@ -1,4 +1,8 @@
-baseURL = 'https://mysite.com/'
-languageCode = 'en-us'
-title = 'This is my site, thank you'
-theme= "ananke"
+baseURL = "https://helloworld.pages.dev/"
+languageCode = "en-us"
+title = "My Hello World Site"
+theme = "ananke"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
